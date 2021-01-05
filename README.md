@@ -19,7 +19,7 @@ The main objective of this repository is to share advances in machine learning s
 
 ## Other resources :books:
 | Name | Knowledge/Skills | Link |
-| :--------:  | :-------------------: | :---------------------: | :---------------------: | 
+| :-------------------: | :---------------------: | :---------------------: | 
 MIT 6.S191: Introduction to Deep Learning    | Deep Learning | [Link](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)             | 
 
 <br>
