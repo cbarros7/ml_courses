@@ -11,9 +11,9 @@ The main objective of this repository is to share advances in machine learning s
 
 | Source  | Name | Knowledge/Skills | Link |
 | :--------:  | :-------------------: | :---------------------: | :---------------------: | 
-| Coursera | [Mathematics for Machine Learning: Linear Algebra](ml_courses/tree/main/Mathematics for Machine Learning/Linear Algebra)     | Linear Algebra | [Link](https://www.coursera.org/learn/linear-algebra-machine-learning)                  | 
-| Coursera      | [Mathematics for Machine Learning: Multivariate Calculus](./Mathematics for Machine Learning/Multivariate Calculus) | Calculus| [Link](https://www.coursera.org/learn/multivariate-calculus-machine-learning)            |
-| Udacity      | [Intro to TensorFlow for Deep Learning](./Intro to TensorFlow for Deep Learning) | Programming| [Link](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)            | 
+| Coursera | [Mathematics for Machine Learning: Linear Algebra](./Mathematics\ for\ Machine\ Learning/Linear\ Algebra)     | Linear Algebra | [Link](https://www.coursera.org/learn/linear-algebra-machine-learning)                  | 
+| Coursera      | [Mathematics for Machine Learning: Multivariate Calculus](./Mathematics\ for\ Machine\ Learning/Multivariate\ Calculus) | Calculus| [Link](https://www.coursera.org/learn/multivariate-calculus-machine-learning)            |
+| Udacity      | [Intro to TensorFlow for Deep Learning](./Intro\ to\ TensorFlow\ for\ Deep\ Learning) | Programming| [Link](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)            | 
 
 <br>
 
