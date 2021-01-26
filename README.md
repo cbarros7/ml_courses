@@ -17,7 +17,6 @@ The main objective of this repository is to share advances in machine learning s
 |   Coursera      | [Neural Networks and Deep Learning](./Deep_Learning/Neural_Networks) | Deep Learning| [Link](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)            |
 | Udacity      | [Intro to TensorFlow for Deep Learning](./Intro_to_TensorFlow_for_Deep_Learning) | Deep Learning| [Link](www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)            |
 | Coursera      | [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](./TensorFlow_Developer/Intro_TensorFlow) | Deep Learning| [Link](www.coursera.org/learn/introduction-tensorflow)            | 
-
 |   Coursera      | [Modernizing Data Lakes and Data Warehouses with GCP](./Data_Engineering_Google/Data_Lakes_and_Warehouses) | Cloud| [Link](www.coursera.org/learn/data-lakes-data-warehouses-gcp?specialization=gcp-data-engineering)            |
 
 
