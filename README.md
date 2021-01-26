@@ -11,7 +11,7 @@ The main objective of this repository is to share advances in machine learning s
 
 | Source  | Name | Knowledge/Skills | Link |
 | :--------:  | :-------------------: | :---------------------: | :---------------------: | 
-| Coursera | [Mathematics for Machine Learning: Linear Algebra](./Mathematics_for_Machine_Learning/Linear_Algebra)     | Linear Algebra | [Link](www.coursera.org/learn/linear-algebra-machine-learning)                  | 
+| Coursera | [Mathematics for Machine Learning: Linear Algebra](./Mathematics_for_Machine_Learning/Linear_Algebra)     | Linear Algebra | [Link](https://www.coursera.org/learn/linear-algebra-machine-learning)                  | 
 
 
 
